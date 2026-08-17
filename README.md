@@ -25,7 +25,6 @@
 - [Skills Demonstrated](#skills-demonstrated)
 - [Project Outcomes](#project-outcomes)
 - [Conclusion](#conclusion)
-- [Author](#author)
 
 ---
 
