@@ -141,7 +141,7 @@ The project follows a structured IT infrastructure and support lifecycle:
 
 ## Project Phases
 
-### Phase 01 — Company Planning & Business Analysis
+### Phase 01 - Company Planning & Business Analysis
 
 **Objective:** Establish the business context, organizational requirements, departments, users, and initial IT requirements.
 
@@ -162,7 +162,7 @@ The project follows a structured IT infrastructure and support lifecycle:
 
 ---
 
-### Phase 02 — Office Layout & IT Asset Planning
+### Phase 02 - Office Layout & IT Asset Planning
 
 **Objective:** Plan the physical office environment and identify the IT assets required to support business operations.
 
@@ -184,7 +184,7 @@ The project follows a structured IT infrastructure and support lifecycle:
 
 ---
 
-### Phase 03 — Network Infrastructure Design & Planning
+### Phase 03 - Network Infrastructure Design & Planning
 
 **Objective:** Design a structured network architecture suitable for the planned office environment.
 
@@ -208,7 +208,7 @@ The project follows a structured IT infrastructure and support lifecycle:
 
 ---
 
-### Phase 04 — Cisco Packet Tracer Network Implementation
+### Phase 04 - Cisco Packet Tracer Network Implementation
 
 **Objective:** Implement and validate the planned network infrastructure using Cisco Packet Tracer.
 
@@ -232,7 +232,7 @@ The project follows a structured IT infrastructure and support lifecycle:
 
 ---
 
-### Phase 05 — Windows System Administration
+### Phase 05 - Windows System Administration
 
 **Objective:** Configure and administer Windows systems required for the office environment.
 
@@ -256,7 +256,7 @@ The project follows a structured IT infrastructure and support lifecycle:
 
 ---
 
-### Phase 06 — Linux System Administration (Ubuntu LTS)
+### Phase 06 - Linux System Administration (Ubuntu LTS)
 
 **Objective:** Develop practical Linux administration and troubleshooting capabilities using Ubuntu LTS.
 
@@ -286,7 +286,7 @@ The project follows a structured IT infrastructure and support lifecycle:
 
 ---
 
-### Phase 07 — IT Support Operations
+### Phase 07 - IT Support Operations
 
 **Objective:** Apply structured IT support practices to realistic workplace incidents and service requests.
 
@@ -315,7 +315,7 @@ The project follows a structured IT infrastructure and support lifecycle:
 
 ---
 
-### Phase 08 — Documentation
+### Phase 08 - Documentation
 
 **Objective:** Produce a professional IT documentation set supporting day-to-day IT operations.
 
